@@ -1,7 +1,7 @@
 # Advance CPP programming 
 Author: Abhijit Majumder 
 <br>
-<img src="../image/selfi.jpeg" width=200px >
+<img src="./image/selfi.jpeg" width=200px >
 
 <br>
 <h1>
