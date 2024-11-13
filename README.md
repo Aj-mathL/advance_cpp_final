@@ -68,4 +68,21 @@ friend key word
 Here we get member leavel access of any class. With using friend key word. 
 </td>
 </tr>
+<tr>
+<td>
+Expalsusion Method
+</td>
+<td>
+This method is basically everything in one block. 
+Likely to say everything in one container
+</td>
+</tr>
+<tr>
+<td>
+Abstruction
+</td>
+<td>
+This method some property being hide and only provide which we need 
+</td>
+</tr>
 </tbody>
