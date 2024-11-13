@@ -60,4 +60,12 @@ Deligating Constructor
 It is a special type of Constructor which call another constructor 
 </td>
 </tr>
+<tr>
+<td>
+friend key word
+</td>
+<td>
+Here we get member leavel access of any class. With using friend key word. 
+</td>
+</tr>
 </tbody>
