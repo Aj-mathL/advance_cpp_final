@@ -23,7 +23,7 @@ Details
 Dynamic memory
 </td>
 <td>
-Here I use New key word and delete
+Here I use <strong>New</strong> key word and <strong>Delete</strong>
 </td>
 </tr>
 <tr>
