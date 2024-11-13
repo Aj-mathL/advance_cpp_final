@@ -33,7 +33,7 @@ Here I use <strong>New</strong> key word and <strong>Delete</strong>
 Pointer function
 </td>
 <td>
-Here details in code check
+function can't return an array but with if pointer function declear then we get refernce of this array 
 </td>
 </tr>
 <tr>
