@@ -36,4 +36,28 @@ Pointer function
 Here details in code check
 </td>
 </tr>
+<tr>
+<td>
+getter 
+</td>
+<td>
+Using getter we define from private block 
+</td>
+</tr>
+<tr>
+<td>
+setter
+</td>
+<td>
+we use this for set value which declear in private block
+</td>
+</tr>
+<tr>
+<td>
+Deligating Constructor
+</td>
+<td>
+It is a special type of Constructor which call another constructor 
+</td>
+</tr>
 </tbody>
