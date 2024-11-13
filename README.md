@@ -27,6 +27,7 @@ Here I use New key word and delete
 </td>
 </tr>
 <tr>
+<td>
 Pointer function
 </td>
 <td>
