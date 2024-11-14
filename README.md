@@ -85,4 +85,20 @@ Abstruction
 This method some property being hide and only provide which we need 
 </td>
 </tr>
+<tr>
+<td>
+Inheritance 
+</td>
+<td>
+Example of this method one by one and use case 
+</td>
+</tr>
+<tr>
+<td>
+Final key word
+</td>
+<td>
+Use case and example 
+</td>
+</tr>
 </tbody>
