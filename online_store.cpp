@@ -95,7 +95,16 @@ int main(){
         cout<<"=============================="<<endl;
     }
 
-    cout<<"\n\n==========Informaton about Coustomers==========\n\n"<<endl;
+    cout<<"\n\n==========Order History==========\n\n"<<endl;
+    for(const auto & history: orderHistory){
+        cout<<history.orderID<<endl; 
+        cout<<history.productID<<endl; 
+        cout<<history.quantity<<endl; 
+        cout<<history.coustomerID<<endl; 
+        cout<<history.orderDate<<endl; 
+        
+        cout<<"============================"<<endl; 
+    }
     
 
     return 0; 
