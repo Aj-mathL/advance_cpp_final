@@ -1,0 +1,12 @@
+ACC5631 Deposite$50000
+ACC5631 Withdraw$299
+ACC5209 Deposite$500
+ACC5209 Withdraw$200
+ACC5505 Deposite$500
+ACC5505 Withdraw$199
+ACC5505 Deposite$4999
+ACC5505 Withdraw$500
+ACC4514 Deposite$200
+ACC4514 Withdraw$1
+ACC4514 Deposite$5
+ACC4514 Withdraw$3
