@@ -114,8 +114,9 @@ I create an Online Store
 Employee Management
 </td>
 <td>
-</td>
+
 With advance syntax and production lavel code 
+</td>
 </tr>
 <tr>
 <td>
@@ -125,6 +126,14 @@ Bank Management Project
 This project has a bug. 
 In transcation part 
 
+</td>
+</tr>
+<tr>
+<td>
+Student Attendants Project
+</td>
+<td>
+Simple Code, Trying to modify in GUI
 </td>
 </tr>
 </tbody>
